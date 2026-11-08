@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Hira Aslam, Data Analyst" width="100%">
+<img src="banner.svg" alt="Hira Aslam, Data Analyst" width="100%">
 
 **Data analyst in the making: Excel, SQL and data visualization, backed by an accounting & finance degree and hands-on school administration experience.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hira_Aslam-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/hira-aslam-75071a34a/)
 
-<img src="assets/highlights.svg" alt="Highlights: 2 years administrative assistant, 1 year teaching, 3 Excel certificates, 3 projects in 2026" width="100%">
+<img src="highlights.svg" alt="Highlights: 2 years administrative assistant, 1 year teaching, 3 Excel certificates, 3 projects in 2026" width="100%">
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 </div>
 
-<img src="assets/section-about.svg" alt="About Me" width="100%">
+<img src="section-about.svg" alt="About Me" width="100%">
 
 - 📊 Building my career in **data analytics** and **data visualization**
 - 🎓 Pursuing a **BBA** at Virtual University of Pakistan
@@ -20,9 +20,9 @@
 - 🏫 Currently working as a **CRO** at The Pioneers School System
 - 🗣️ Languages: English (professional), Urdu and Punjabi (native)
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-experience.svg" alt="Experience" width="100%">
+<img src="section-experience.svg" alt="Experience" width="100%">
 
 | Role | Organization | Period | Highlights |
 |------|--------------|--------|------------|
@@ -31,24 +31,24 @@
 | School Administrative Assistant | School | 2023 – 2025 | Managed employee and student records and digital documentation; maintained fee records and tracked institutional expenses in MS Excel; handled official email correspondence between staff, students and administration |
 | Teacher | Alimiraj High School | 1 year | Teaching |
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-timeline.svg" alt="Career Timeline" width="100%">
+<img src="section-timeline.svg" alt="Career Timeline" width="100%">
 
-<img src="assets/timeline.svg" alt="Career timeline: education and work, 2021 to 2026" width="100%">
+<img src="timeline.svg" alt="Career timeline: education and work, 2021 to 2026" width="100%">
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-projects.svg" alt="Projects" width="100%">
+<img src="section-projects.svg" alt="Projects" width="100%">
 
 - **Regional Sales Analytics Dashboard** (2026)
 - **Dynamic Expense Tracking Dashboard** (2026)
 - **Student Assignment Tracker** (2026)
 - **Dunhill Tobacco Company case study** (2023, GCUF): global operations, history and market positioning
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-techstack.svg" alt="Tech Stack" width="100%">
+<img src="section-techstack.svg" alt="Tech Stack" width="100%">
 
 **Backend / Programming**
 
@@ -78,9 +78,9 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge)
 ![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge)
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-competencies.svg" alt="Core Competencies" width="100%">
+<img src="section-competencies.svg" alt="Core Competencies" width="100%">
 
 | Area | Competencies |
 |------|--------------|
@@ -89,9 +89,9 @@
 | Digital | Digital Marketing, Client Relationship, Canva, Notion, MS Office |
 | Core Skills | Leadership, Teamwork, Communication, Problem Solving, Adaptability, Detail Oriented |
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-education.svg" alt="Education & Certifications" width="100%">
+<img src="section-education.svg" alt="Education & Certifications" width="100%">
 
 **Education**
 
@@ -107,9 +107,9 @@
 - Graphic Designing
 - Data Analytics Basics for Everyone, edX (in progress)
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-stats.svg" alt="GitHub Stats" width="100%">
+<img src="section-stats.svg" alt="GitHub Stats" width="100%">
 
 <div align="center">
 
@@ -118,15 +118,15 @@
 
 </div>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-connect.svg" alt="Let's Connect" width="100%">
+<img src="section-connect.svg" alt="Let's Connect" width="100%">
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hira_Aslam-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/hira-aslam-75071a34a/)
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 *Always learning, one dataset at a time.*
 
